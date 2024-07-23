@@ -32,6 +32,9 @@ export STRAVA_PASSWORD=YOUR_PASSWORD
 ## 🔬Testing
 Manual testing was done in Python 3.9.10. 
 
+
+,.
+
 ## Contributions
 Let me know if you wish to add anything or if there are any issues!
 
